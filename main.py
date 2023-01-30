@@ -8,6 +8,7 @@ root.geometry("500x350") #window size
 
 def login(): #add login functionality here
     print("Test")
+    print("Test change")
 
 
 frame = customtkinter.CTkFrame(master=root)
